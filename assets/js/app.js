@@ -49,17 +49,20 @@
   }
   window.coverPath = coverPath;
 
-  // Titre éditorial : préfère bulle.titre_accroche > pdf_title > filename
+  // Titre éditorial : bulle.titre_accroche > doc.title (backfillé) > pdf_title > filename
+  // doc.title est le titre soigné renseigné en session #5 (session biblio).
   function docTitle(doc) {
     if (doc.bulle_data && doc.bulle_data.titre_accroche) return doc.bulle_data.titre_accroche;
+    if (doc.title) return doc.title;
     if (doc.meta && doc.meta.pdf_title) return doc.meta.pdf_title;
     if (doc.filename) return doc.filename.replace(/\.[a-z0-9]+$/i, '').replace(/[_-]+/g, ' ');
     return doc.id;
   }
   window.docTitle = docTitle;
 
-  // Auteur (depuis meta PDF)
+  // Auteur : doc.author (backfillé) > meta.pdf_author
   function docAuthor(doc) {
+    if (doc.author) return doc.author;
     if (doc.meta && doc.meta.pdf_author) return doc.meta.pdf_author;
     return null;
   }
@@ -654,9 +657,9 @@
     document.addEventListener('keydown', onKey);
   }
 
-  // Délégation sur toute image dans .fiche-cover ou .fiche-cover-wrap
+  // Délégation sur toute image dans .fiche-cover, .fiche-cover-wrap (fiche) ou .book-cover (catalogue)
   document.addEventListener('click', function (e) {
-    const img = e.target.closest('.fiche-cover img, .fiche-cover-wrap img');
+    const img = e.target.closest('.fiche-cover img, .fiche-cover-wrap img, .book-cover img');
     if (!img || img.closest('.placeholder')) return;
     if (img.naturalWidth === 0) return; // image non chargée
     e.preventDefault();
