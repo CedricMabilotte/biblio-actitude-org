@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-07T17:42:48Z",
+  "generated_at": "2026-08-01T06:13:46Z",
   "total_dossiers": 10,
   "dossiers": [
     {
       "slug": "sortir-une-terre-du-marche",
       "titre": "Sortir une terre du marché",
       "chapo": "Comment des collectifs arrachent durablement des terres à la spéculation : fonds de dotation, fiducies foncières, baux emphytéotiques militants, propriété d'usage. Les outils juridiques et financiers de l'inaliénabilité, racontés par celles et ceux qui les forgent.",
-      "doc_count": 83,
+      "doc_count": 90,
       "docs": [
         "9c49c870",
         "931fc89b",
@@ -41,14 +41,16 @@
         "99a6d367",
         "b0917bdf",
         "089ddfba",
+        "51240b12",
+        "6354361d",
         "33f14cc5",
         "67a24eca",
+        "5b13aaeb",
         "54f18780",
         "de8665e3",
         "6325ebd3",
         "6d4f3628",
         "941861fb",
-        "18b4c3ab",
         "1727bccf",
         "c62d22bd",
         "3cd2f9c2",
@@ -61,6 +63,10 @@
         "9044708c",
         "69b25d66",
         "f8d54f16",
+        "c2dac91f",
+        "2292aab6",
+        "5fdbf70d",
+        "75de4c14",
         "2db11a52",
         "85a0da6c",
         "28b7cb2c",
@@ -75,22 +81,23 @@
         "eb18a3de",
         "c210135f",
         "1d3081c2",
-        "8470552d",
         "8af5f6c1",
         "8741a8e6",
         "2f0c58b3",
+        "8ee3f263",
         "02b2b6df",
         "d992c836",
         "258bddb2",
         "095f8db9",
-        "413089e3",
         "f6ebd39c",
         "a7658db1",
         "961e54e4",
         "9405b8a5",
         "b0e87371",
         "e0c37afa",
-        "a66578a6"
+        "b8a9d650",
+        "a66578a6",
+        "bd18d74a"
       ],
       "docs_detail": [
         {
@@ -379,6 +386,22 @@
           ]
         },
         {
+          "id": "51240b12",
+          "title": "\"Mes brebis comme des machines\"",
+          "score": 8,
+          "matched_on": [
+            "propriété d'usage"
+          ]
+        },
+        {
+          "id": "6354361d",
+          "title": "\"Mes brebis comme des machines\"",
+          "score": 8,
+          "matched_on": [
+            "propriété d'usage"
+          ]
+        },
+        {
           "id": "33f14cc5",
           "title": "Réflexions sur la ZAD",
           "score": 8,
@@ -393,6 +416,14 @@
           "matched_on": [
             "propriété d'usage",
             "fonds de dotation"
+          ]
+        },
+        {
+          "id": "5b13aaeb",
+          "title": "L’unique et sa propriété",
+          "score": 8,
+          "matched_on": [
+            "propriété d'usage"
           ]
         },
         {
@@ -432,14 +463,6 @@
         {
           "id": "941861fb",
           "title": "We're in Charge: Cohousing",
-          "score": 8,
-          "matched_on": [
-            "community land trust"
-          ]
-        },
-        {
-          "id": "18b4c3ab",
-          "title": "A study of co-operative housing",
           "score": 8,
           "matched_on": [
             "community land trust"
@@ -544,6 +567,39 @@
           "score": 8,
           "matched_on": [
             "inaliénab"
+          ]
+        },
+        {
+          "id": "c2dac91f",
+          "title": "Mini-Manuel : Fond dotation",
+          "score": 8,
+          "matched_on": [
+            "fonds de dotation"
+          ]
+        },
+        {
+          "id": "2292aab6",
+          "title": "Mini-Manuel : Communalisme",
+          "score": 8,
+          "matched_on": [
+            "bail emphytéotique"
+          ]
+        },
+        {
+          "id": "5fdbf70d",
+          "title": "Mini-Manuel : Droit civil",
+          "score": 8,
+          "matched_on": [
+            "fonds de dotation",
+            "bail emphytéotique"
+          ]
+        },
+        {
+          "id": "75de4c14",
+          "title": "Mini-Manuel : Forêts nourricières",
+          "score": 8,
+          "matched_on": [
+            "fonds de dotation"
           ]
         },
         {
@@ -663,14 +719,6 @@
           ]
         },
         {
-          "id": "8470552d",
-          "title": "In our own hands : a history of student housing cooperatives at the University of Michigan",
-          "score": 7,
-          "matched_on": [
-            "community land trust"
-          ]
-        },
-        {
           "id": "8af5f6c1",
           "title": "CRI__Darcinopoliss",
           "score": 7,
@@ -689,6 +737,14 @@
         {
           "id": "2f0c58b3",
           "title": "2018-LVC-Annual-Report-EN-compressed",
+          "score": 7,
+          "matched_on": [
+            "propriété d'usage"
+          ]
+        },
+        {
+          "id": "8ee3f263",
+          "title": "Ostrom, E. : El Gobierno de los Bienes Comunes. La Evolución de las Instituciones de Acción Colectiva, México, 2000.",
           "score": 7,
           "matched_on": [
             "propriété d'usage"
@@ -724,14 +780,6 @@
           "score": 6,
           "matched_on": [
             "fonds de dotation"
-          ]
-        },
-        {
-          "id": "413089e3",
-          "title": "Le mouvement est mort, vive la réforme !",
-          "score": 6,
-          "matched_on": [
-            "propriété d'usage"
           ]
         },
         {
@@ -784,11 +832,29 @@
           ]
         },
         {
+          "id": "b8a9d650",
+          "title": "Download in PDF",
+          "score": 6,
+          "matched_on": [
+            "stewardship"
+          ]
+        },
+        {
           "id": "a66578a6",
           "title": "Isreal Violation Sep.2020",
           "score": 6,
           "matched_on": [
             "propriété d'usage"
+          ]
+        },
+        {
+          "id": "bd18d74a",
+          "title": "Descripción Solicitud de Tierra",
+          "score": 6,
+          "matched_on": [
+            "propriété d'usage",
+            "anti-spéculat",
+            "inaliénab"
           ]
         }
       ]
@@ -797,7 +863,7 @@
       "slug": "zad-defense-de-territoires",
       "titre": "ZAD & défense de territoires",
       "chapo": "Occuper pour défendre : ZAD, luttes contre les grands projets inutiles, résistances à l'artificialisation. Des récits de territoires habités contre l'aménagement, et ce qu'ils inventent en commun.",
-      "doc_count": 80,
+      "doc_count": 78,
       "docs": [
         "38a113bc",
         "ba64641a",
@@ -810,6 +876,7 @@
         "b54759fb",
         "59028c2b",
         "1958fc06",
+        "fb76b5a1",
         "5536b369",
         "1ce39b6d",
         "b4712d32",
@@ -837,6 +904,7 @@
         "eb38aebb",
         "2e5629b5",
         "a90d3977",
+        "0861d0b3",
         "6772ded1",
         "b7d54170",
         "235a98fb",
@@ -863,15 +931,11 @@
         "ce124b01",
         "38f15499",
         "5ea1719f",
-        "d518396b",
         "59fe7d0a",
-        "623c814d",
-        "413089e3",
         "bc522fd4",
         "b375e8c5",
         "d7759e91",
         "5c511048",
-        "0539b385",
         "41e09539",
         "f6ebd39c",
         "df13538a",
@@ -970,6 +1034,14 @@
         {
           "id": "1958fc06",
           "title": "Webinar_Palestine_ The Struggle for Food Sovereignty under Occupation",
+          "score": 9,
+          "matched_on": [
+            "occupation"
+          ]
+        },
+        {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
           "score": 9,
           "matched_on": [
             "occupation"
@@ -1201,6 +1273,14 @@
           "score": 7,
           "matched_on": [
             "zad",
+            "occupation"
+          ]
+        },
+        {
+          "id": "0861d0b3",
+          "title": "Les Bure à cuire n°1",
+          "score": 7,
+          "matched_on": [
             "occupation"
           ]
         },
@@ -1443,40 +1523,8 @@
           ]
         },
         {
-          "id": "d518396b",
-          "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "zad",
-            "notre-dame-des-landes",
-            "occupation"
-          ]
-        },
-        {
           "id": "59fe7d0a",
           "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "zad",
-            "notre-dame-des-landes",
-            "occupation",
-            "aéroport"
-          ]
-        },
-        {
-          "id": "623c814d",
-          "title": "The Movement is Dead, Long Live… Reform ! (version anglaise)",
-          "score": 6,
-          "matched_on": [
-            "zad",
-            "notre-dame-des-landes",
-            "occupation",
-            "aéroport"
-          ]
-        },
-        {
-          "id": "413089e3",
-          "title": "Le mouvement est mort, vive la réforme !",
           "score": 6,
           "matched_on": [
             "zad",
@@ -1516,15 +1564,6 @@
           "matched_on": [
             "zad",
             "occupation"
-          ]
-        },
-        {
-          "id": "0539b385",
-          "title": "Nature et anarchie,",
-          "score": 6,
-          "matched_on": [
-            "zad",
-            "notre-dame-des-landes"
           ]
         },
         {
@@ -1589,7 +1628,7 @@
       "slug": "sans-terre-reforme-agraire",
       "titre": "Sans-terre & réforme agraire",
       "chapo": "La terre à celles et ceux qui la travaillent. Mouvements de sans-terre, réformes agraires, occupations de latifundios, MST brésilien et Via Campesina : la redistribution foncière comme combat vivant.",
-      "doc_count": 177,
+      "doc_count": 196,
       "docs": [
         "9c49c870",
         "39441dfc",
@@ -1634,6 +1673,10 @@
         "cc218f22",
         "5362046f",
         "a15fbe47",
+        "fb76b5a1",
+        "e7de54e2",
+        "4bc13839",
+        "7832cc13",
         "9e831a55",
         "c99e6da4",
         "55db5001",
@@ -1644,9 +1687,25 @@
         "97c3bbb4",
         "a91bd215",
         "1ce39b6d",
+        "ae302e09",
         "08baa6d1",
+        "646b9c77",
+        "b8b0bfd8",
+        "fe77002b",
+        "2f5fce84",
+        "4bbf2e69",
+        "51240b12",
+        "6354361d",
         "47c6599a",
         "f61a2368",
+        "8ff46085",
+        "6391beef",
+        "7ed427b7",
+        "4bed639a",
+        "ea4493d9",
+        "585665f8",
+        "f5020d9a",
+        "06915c3f",
         "54f18780",
         "9f16b851",
         "95ced9d7",
@@ -1682,12 +1741,10 @@
         "580cbbae",
         "64c638f4",
         "69b25d66",
-        "24a0895b",
         "b1383308",
         "f8d54f16",
         "7860f9cd",
         "eb38aebb",
-        "f0302e19",
         "9fdec837",
         "0cefefbc",
         "0a70b2b3",
@@ -1713,6 +1770,7 @@
         "f2e916da",
         "d64aa10b",
         "bb0c829f",
+        "e8ee5514",
         "fac367e2",
         "2db11a52",
         "d64f2d03",
@@ -1739,7 +1797,6 @@
         "5ab070fc",
         "60f51b57",
         "982a7b44",
-        "f5b15d00",
         "0183b615",
         "2f0c58b3",
         "f5460d57",
@@ -1750,13 +1807,12 @@
         "d992c836",
         "88bfc0cb",
         "95e763e1",
+        "3d9a76fb",
         "9e8c8fc5",
         "6161499c",
         "258bddb2",
-        "d518396b",
         "59fe7d0a",
         "7e814cb7",
-        "0539b385",
         "f6ebd39c",
         "961e54e4",
         "fba04469",
@@ -1765,9 +1821,11 @@
         "38b5fd88",
         "55b31ba8",
         "c8e0149d",
+        "cede62b7",
         "ad195f76",
         "3afcdc16",
-        "a685537e"
+        "a685537e",
+        "7c1b5f0c"
       ],
       "docs_detail": [
         {
@@ -2181,6 +2239,38 @@
           ]
         },
         {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
+          "score": 9,
+          "matched_on": [
+            "sans-terre"
+          ]
+        },
+        {
+          "id": "e7de54e2",
+          "title": "LIRE LE DÉPLIANT QUE NOUS DIFFUSONS",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "4bc13839",
+          "title": "06.05_2026_catalogue.pdf",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "7832cc13",
+          "title": "la peste religieuse de Johann Most — 1892",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
           "id": "9e831a55",
           "title": "Tree, The Rock, and the Morrow",
           "score": 8,
@@ -2267,8 +2357,73 @@
           ]
         },
         {
+          "id": "ae302e09",
+          "title": "ASCAB, pérégrinations de trois saisonnières dans le pétrin",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
           "id": "08baa6d1",
           "title": "Notre blé est politique — Introduction aux semences paysannes et à ses combats",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "646b9c77",
+          "title": "La baguette magique de l’agro-industrie — version cahier.",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "b8b0bfd8",
+          "title": "Industriellt Jordbruk och Klimatkaos (version suédoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "sans-terre",
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "fe77002b",
+          "title": "Det industrielle landbrug og klimakaos (version danoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "2f5fce84",
+          "title": "Pour une agriculture sans exploitation animale",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "4bbf2e69",
+          "title": "Kein Dialog war möglich — En allemand — Page par page",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "51240b12",
+          "title": "\"Mes brebis comme des machines\"",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "6354361d",
+          "title": "\"Mes brebis comme des machines\"",
           "score": 8,
           "matched_on": [
             "réforme agraire"
@@ -2288,6 +2443,71 @@
           "score": 8,
           "matched_on": [
             "sans-terre"
+          ]
+        },
+        {
+          "id": "8ff46085",
+          "title": "Qu’est-ce qu’un anarchiste ?",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "6391beef",
+          "title": "De la servitude moderne",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "7ed427b7",
+          "title": "Octobre 1917-le thermidor de la révolution russe",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "4bed639a",
+          "title": "Autour d’une vie (Mémoires d’un révolutionnaire)",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "ea4493d9",
+          "title": "Lutte de classe en France (1848-1850)",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "585665f8",
+          "title": "tome 2",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "f5020d9a",
+          "title": "Liberté sur paroles de C. Soulié",
+          "score": 8,
+          "matched_on": [
+            "sans-terre",
+            "réforme agraire"
+          ]
+        },
+        {
+          "id": "06915c3f",
+          "title": "0.9.2002_-_usines_de_mort._l_exlosion_d_azf.pdf",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire"
           ]
         },
         {
@@ -2609,15 +2829,6 @@
           ]
         },
         {
-          "id": "24a0895b",
-          "title": "Boletín EN",
-          "score": 8,
-          "matched_on": [
-            "sans-terre",
-            "réforme agraire"
-          ]
-        },
-        {
           "id": "b1383308",
           "title": "EN-WEB-Annual_Report_2019",
           "score": 8,
@@ -2653,15 +2864,6 @@
           "score": 8,
           "matched_on": [
             "sans terre"
-          ]
-        },
-        {
-          "id": "f0302e19",
-          "title": "COMMUNIQUÉ DE PRESSE UNAC 17 abril",
-          "score": 8,
-          "matched_on": [
-            "réforme agraire",
-            "via campesina"
           ]
         },
         {
@@ -2865,6 +3067,15 @@
           "score": 8,
           "matched_on": [
             "via campesina"
+          ]
+        },
+        {
+          "id": "e8ee5514",
+          "title": "Migraciones, agro, tercer cercamiento capitalista y el procomún",
+          "score": 8,
+          "matched_on": [
+            "réforme agraire",
+            "reforma agraria"
           ]
         },
         {
@@ -3103,16 +3314,6 @@
           ]
         },
         {
-          "id": "f5b15d00",
-          "title": "BRIGADAS_INTERNACIONALISTA_Inglês",
-          "score": 7,
-          "matched_on": [
-            "sans terre",
-            "mst",
-            "landless"
-          ]
-        },
-        {
           "id": "0183b615",
           "title": "Memorandum to Commerce Ministry : ICCFM",
           "score": 7,
@@ -3202,6 +3403,14 @@
           ]
         },
         {
+          "id": "3d9a76fb",
+          "title": "Die Industrielle Landwirtschaft und das Klimachaos (version allemande — booklet)",
+          "score": 6,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
           "id": "9e8c8fc5",
           "title": "L'agriculture industrielle et le chaos climatique",
           "score": 6,
@@ -3226,14 +3435,6 @@
           ]
         },
         {
-          "id": "d518396b",
-          "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "occupation de terre"
-          ]
-        },
-        {
           "id": "59fe7d0a",
           "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
           "score": 6,
@@ -3244,14 +3445,6 @@
         {
           "id": "7e814cb7",
           "title": "Zomia",
-          "score": 6,
-          "matched_on": [
-            "réforme agraire"
-          ]
-        },
-        {
-          "id": "0539b385",
-          "title": "Nature et anarchie,",
           "score": 6,
           "matched_on": [
             "réforme agraire"
@@ -3333,6 +3526,14 @@
           ]
         },
         {
+          "id": "cede62b7",
+          "title": "Download in French",
+          "score": 6,
+          "matched_on": [
+            "réforme agraire"
+          ]
+        },
+        {
           "id": "ad195f76",
           "title": "NOT IN OUR NAME",
           "score": 6,
@@ -3357,6 +3558,15 @@
             "sans-terre",
             "landless"
           ]
+        },
+        {
+          "id": "7c1b5f0c",
+          "title": "História Agrária Da Revolução Cubana — Joana Vasconcelos",
+          "score": 6,
+          "matched_on": [
+            "sans-terre",
+            "réforme agraire"
+          ]
         }
       ]
     },
@@ -3364,11 +3574,12 @@
       "slug": "communs-fonciers-histoire",
       "titre": "Communs fonciers : une histoire",
       "chapo": "Communaux, biens communaux, terres collectives : une longue histoire des régimes fonciers partagés, de leur enclosure et de leurs résurgences. Pour penser les communs autrement qu'en nostalgie.",
-      "doc_count": 140,
+      "doc_count": 169,
       "docs": [
         "d30c223f",
         "9c49c870",
         "39441dfc",
+        "c8210481",
         "05392c72",
         "96563571",
         "931fc89b",
@@ -3409,6 +3620,10 @@
         "c8842f31",
         "41df6222",
         "cc218f22",
+        "fb76b5a1",
+        "e7de54e2",
+        "4bc13839",
+        "abcacc36",
         "9e831a55",
         "e5341cc9",
         "7b89d6d1",
@@ -3418,13 +3633,20 @@
         "97c3bbb4",
         "a91bd215",
         "1ce39b6d",
+        "ae302e09",
+        "622ada75",
         "2e2e4bc7",
         "ed6b79d9",
         "99a6d367",
         "b0917bdf",
         "089ddfba",
         "08baa6d1",
+        "b8b0bfd8",
+        "fe77002b",
+        "2f5fce84",
         "f61a2368",
+        "d2026e14",
+        "9b78288d",
         "33f14cc5",
         "67a24eca",
         "c97fba28",
@@ -3433,6 +3655,12 @@
         "cfea62d4",
         "2c9a5575",
         "19101c21",
+        "aa5d50ec",
+        "fcb6b3b5",
+        "1dd24299",
+        "18168098",
+        "16e8446d",
+        "5b13aaeb",
         "54f18780",
         "9f16b851",
         "de8665e3",
@@ -3443,7 +3671,6 @@
         "6325ebd3",
         "6d4f3628",
         "941861fb",
-        "18b4c3ab",
         "1727bccf",
         "c62d22bd",
         "876db11d",
@@ -3453,11 +3680,13 @@
         "037cb37e",
         "9044708c",
         "69b25d66",
-        "24a0895b",
         "f8d54f16",
         "85560c8a",
         "0a70b2b3",
         "54ae9934",
+        "e8ee5514",
+        "2292aab6",
+        "75de4c14",
         "2db11a52",
         "85a0da6c",
         "28b7cb2c",
@@ -3477,18 +3706,21 @@
         "eb18a3de",
         "c210135f",
         "1d3081c2",
-        "8470552d",
         "3fd40433",
         "8741a8e6",
+        "187000d0",
         "5ab070fc",
         "2f0c58b3",
         "a5a01a97",
+        "8f25f5d2",
+        "8ee3f263",
         "d647480f",
         "b85c8bc1",
         "d992c836",
         "b651aa85",
         "83b6390f",
         "88bfc0cb",
+        "3731bf2e",
         "95e763e1",
         "83eafaac",
         "c0744b42",
@@ -3500,12 +3732,19 @@
         "9405b8a5",
         "14f9c4d0",
         "fba04469",
+        "9f9feb74",
         "b0e87371",
         "bdaf5ec0",
         "55b31ba8",
         "360fd55b",
         "e0c37afa",
-        "c8e0149d"
+        "c8e0149d",
+        "b8a9d650",
+        "cede62b7",
+        "f640d991",
+        "7585c0aa",
+        "7c1b5f0c",
+        "13352415"
       ],
       "docs_detail": [
         {
@@ -3531,6 +3770,14 @@
           "score": 10,
           "matched_on": [
             "communs fonciers"
+          ]
+        },
+        {
+          "id": "c8210481",
+          "title": "Re-enchanting the World: Feminism and the Politics of the Commons",
+          "score": 10,
+          "matched_on": [
+            "commons"
           ]
         },
         {
@@ -3890,6 +4137,39 @@
           ]
         },
         {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
+          "score": 9,
+          "matched_on": [
+            "communs fonciers",
+            "enclosure"
+          ]
+        },
+        {
+          "id": "e7de54e2",
+          "title": "LIRE LE DÉPLIANT QUE NOUS DIFFUSONS",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "4bc13839",
+          "title": "06.05_2026_catalogue.pdf",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "abcacc36",
+          "title": "Autogestion et Hiérarchie",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
           "id": "9e831a55",
           "title": "Tree, The Rock, and the Morrow",
           "score": 8,
@@ -3978,6 +4258,22 @@
           ]
         },
         {
+          "id": "ae302e09",
+          "title": "ASCAB, pérégrinations de trois saisonnières dans le pétrin",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "622ada75",
+          "title": "Le Vent d’Autan",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
           "id": "2e2e4bc7",
           "title": "The Condo/Co-op Book",
           "score": 8,
@@ -4026,6 +4322,33 @@
           ]
         },
         {
+          "id": "b8b0bfd8",
+          "title": "Industriellt Jordbruk och Klimatkaos (version suédoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers",
+            "enclosure"
+          ]
+        },
+        {
+          "id": "fe77002b",
+          "title": "Det industrielle landbrug og klimakaos (version danoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers",
+            "terres collectives"
+          ]
+        },
+        {
+          "id": "2f5fce84",
+          "title": "Pour une agriculture sans exploitation animale",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers",
+            "terres collectives"
+          ]
+        },
+        {
           "id": "f61a2368",
           "title": "Radicaux urbains, paysans : la révolution anglaise",
           "score": 8,
@@ -4034,6 +4357,22 @@
             "communs fonciers",
             "terres collectives",
             "enclosure"
+          ]
+        },
+        {
+          "id": "d2026e14",
+          "title": "Le progrès, c’est mal ! — version page par page",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "9b78288d",
+          "title": "Le progrès, c’est mal ! — version cahier",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
           ]
         },
         {
@@ -4100,6 +4439,54 @@
           "score": 8,
           "matched_on": [
             "terres collectives"
+          ]
+        },
+        {
+          "id": "aa5d50ec",
+          "title": "La révolte maori de 1863",
+          "score": 8,
+          "matched_on": [
+            "terres collectives"
+          ]
+        },
+        {
+          "id": "fcb6b3b5",
+          "title": "tome 1",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "1dd24299",
+          "title": "tome 2",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "18168098",
+          "title": "tome 3",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "16e8446d",
+          "title": "L’Espagne libertaire",
+          "score": 8,
+          "matched_on": [
+            "terres collectives"
+          ]
+        },
+        {
+          "id": "5b13aaeb",
+          "title": "L’unique et sa propriété",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
           ]
         },
         {
@@ -4192,14 +4579,6 @@
           ]
         },
         {
-          "id": "18b4c3ab",
-          "title": "A study of co-operative housing",
-          "score": 8,
-          "matched_on": [
-            "commons"
-          ]
-        },
-        {
           "id": "1727bccf",
           "title": "\"Co-operative housing. [microform]\"",
           "score": 8,
@@ -4274,15 +4653,6 @@
           ]
         },
         {
-          "id": "24a0895b",
-          "title": "Boletín EN",
-          "score": 8,
-          "matched_on": [
-            "communs fonciers",
-            "terres collectives"
-          ]
-        },
-        {
           "id": "f8d54f16",
           "title": "2019-10-15-LVC-Letter-to-Evo-Morales_",
           "score": 8,
@@ -4310,6 +4680,33 @@
         {
           "id": "54ae9934",
           "title": "2017_Annual_Report_EN-2_lowres",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "e8ee5514",
+          "title": "Migraciones, agro, tercer cercamiento capitalista y el procomún",
+          "score": 8,
+          "matched_on": [
+            "communaux",
+            "terres communales",
+            "enclosure",
+            "commons"
+          ]
+        },
+        {
+          "id": "2292aab6",
+          "title": "Mini-Manuel : Communalisme",
+          "score": 8,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "75de4c14",
+          "title": "Mini-Manuel : Forêts nourricières",
           "score": 8,
           "matched_on": [
             "communs fonciers"
@@ -4484,14 +4881,6 @@
           ]
         },
         {
-          "id": "8470552d",
-          "title": "In our own hands : a history of student housing cooperatives at the University of Michigan",
-          "score": 7,
-          "matched_on": [
-            "commons"
-          ]
-        },
-        {
           "id": "3fd40433",
           "title": "CARTA-COMPROMISSO-AOS-CANDIDATOS-E-CANDIDATAS-NAS-ELEICOES-2022",
           "score": 7,
@@ -4505,6 +4894,16 @@
           "score": 7,
           "matched_on": [
             "terres collectives"
+          ]
+        },
+        {
+          "id": "187000d0",
+          "title": "Download in German",
+          "score": 7,
+          "matched_on": [
+            "communs fonciers",
+            "terres collectives",
+            "enclosure"
           ]
         },
         {
@@ -4529,6 +4928,23 @@
           "score": 7,
           "matched_on": [
             "terres collectives"
+          ]
+        },
+        {
+          "id": "8f25f5d2",
+          "title": "Horizontes comunitario-populares",
+          "score": 7,
+          "matched_on": [
+            "commons"
+          ]
+        },
+        {
+          "id": "8ee3f263",
+          "title": "Ostrom, E. : El Gobierno de los Bienes Comunes. La Evolución de las Instituciones de Acción Colectiva, México, 2000.",
+          "score": 7,
+          "matched_on": [
+            "communs fonciers",
+            "commons"
           ]
         },
         {
@@ -4582,6 +4998,14 @@
           "score": 6,
           "matched_on": [
             "terres collectives"
+          ]
+        },
+        {
+          "id": "3731bf2e",
+          "title": "Pied à terre — version page par page",
+          "score": 6,
+          "matched_on": [
+            "enclosure"
           ]
         },
         {
@@ -4682,6 +5106,14 @@
           ]
         },
         {
+          "id": "9f9feb74",
+          "title": "2025_3_ilc_po_maps_of_all_constituencies_by_country_youth.pdf",
+          "score": 6,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
           "id": "b0e87371",
           "title": "Credit availability for condominium and cooperative purchase : field hearing before the Subcommittee on Consumer Credit and Insurance of the Committee on Banking, Finance, and Urban Affairs, House of Representatives, One Hundred Third Congress, second session, September 14, 1994",
           "score": 6,
@@ -4732,6 +5164,56 @@
           "matched_on": [
             "commons"
           ]
+        },
+        {
+          "id": "b8a9d650",
+          "title": "Download in PDF",
+          "score": 6,
+          "matched_on": [
+            "enclosure"
+          ]
+        },
+        {
+          "id": "cede62b7",
+          "title": "Download in French",
+          "score": 6,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "f640d991",
+          "title": "Download in Greek",
+          "score": 6,
+          "matched_on": [
+            "communs fonciers",
+            "terres collectives",
+            "enclosure"
+          ]
+        },
+        {
+          "id": "7585c0aa",
+          "title": "Ostrom, E. — El gobierno de los bienes comunes",
+          "score": 6,
+          "matched_on": [
+            "commons"
+          ]
+        },
+        {
+          "id": "7c1b5f0c",
+          "title": "História Agrária Da Revolução Cubana — Joana Vasconcelos",
+          "score": 6,
+          "matched_on": [
+            "communs fonciers"
+          ]
+        },
+        {
+          "id": "13352415",
+          "title": "Silent theft : the private plunder of our common wealth",
+          "score": 6,
+          "matched_on": [
+            "communs fonciers"
+          ]
         }
       ]
     },
@@ -4769,12 +5251,12 @@
         "28b7cb2c",
         "2175f7a3",
         "2e5629b5",
+        "0861d0b3",
         "df840ff3",
         "3fe8867b",
         "8156629f",
         "c210135f",
         "1d3081c2",
-        "8470552d",
         "bc522fd4",
         "b375e8c5",
         "961e54e4",
@@ -5038,6 +5520,14 @@
           ]
         },
         {
+          "id": "0861d0b3",
+          "title": "Les Bure à cuire n°1",
+          "score": 7,
+          "matched_on": [
+            "habitat groupé"
+          ]
+        },
+        {
           "id": "df840ff3",
           "title": "Ocupar é lutar — version portugaise (1984)",
           "score": 7,
@@ -5076,14 +5566,6 @@
           "matched_on": [
             "habitat coopératif",
             "logement collectif"
-          ]
-        },
-        {
-          "id": "8470552d",
-          "title": "In our own hands : a history of student housing cooperatives at the University of Michigan",
-          "score": 7,
-          "matched_on": [
-            "housing cooperative"
           ]
         },
         {
@@ -5153,7 +5635,7 @@
       "slug": "paysanneries-agroecologie",
       "titre": "Paysanneries & agroécologie politique",
       "chapo": "Les mondes paysans comme acteurs politiques : agricultures vivrières, savoirs paysans, agroécologie comme projet de société, souveraineté alimentaire. Loin de l'agro-industrie et du folklore rural.",
-      "doc_count": 272,
+      "doc_count": 350,
       "docs": [
         "9c49c870",
         "39441dfc",
@@ -5208,6 +5690,12 @@
         "cc218f22",
         "5362046f",
         "a15fbe47",
+        "23558b3e",
+        "fb76b5a1",
+        "e7de54e2",
+        "4bc13839",
+        "abcacc36",
+        "912628dd",
         "9e831a55",
         "c99e6da4",
         "e4f64264",
@@ -5217,17 +5705,77 @@
         "5f5dadd2",
         "a91bd215",
         "1ce39b6d",
+        "ae302e09",
+        "622ada75",
+        "f281245c",
+        "2bf90eb8",
         "b4712d32",
+        "a6be9af5",
+        "163ae6f7",
+        "666523c7",
+        "8fed46af",
+        "8eaeefa8",
         "089ddfba",
         "08baa6d1",
+        "646b9c77",
+        "b8b0bfd8",
+        "fe77002b",
+        "918423ee",
         "afcd5ef8",
+        "2f5fce84",
+        "4bbf2e69",
+        "9063702b",
         "22b9da21",
+        "30dd9387",
+        "07940923",
+        "ce49e81f",
+        "9e511b52",
+        "51240b12",
+        "6354361d",
         "47c6599a",
+        "c8e1f2ff",
+        "6081d442",
         "f61a2368",
+        "71a3ece0",
+        "42c901d1",
+        "d2026e14",
+        "9b78288d",
         "33f14cc5",
         "67a24eca",
         "c97fba28",
         "32ccb418",
+        "128a75f4",
+        "8ff46085",
+        "51095869",
+        "d3935a89",
+        "e381560e",
+        "6e4b7ca0",
+        "896e3af6",
+        "6391beef",
+        "f1edebd7",
+        "601f739b",
+        "cfbe4c14",
+        "638b6873",
+        "5e830a81",
+        "ffe7f924",
+        "a3eb49c6",
+        "fcb6b3b5",
+        "1dd24299",
+        "18168098",
+        "bcba2dfb",
+        "865d2d05",
+        "4bed639a",
+        "19b829be",
+        "16e8446d",
+        "66a991a4",
+        "089a2666",
+        "ddf347f1",
+        "d5e0958e",
+        "6c98994c",
+        "5e8be4ad",
+        "81ca672f",
+        "585665f8",
+        "f5020d9a",
         "54f18780",
         "9f16b851",
         "de8665e3",
@@ -5249,6 +5797,7 @@
         "83fad0f1",
         "4ee36902",
         "3ab1a62b",
+        "f75b67b2",
         "800b6f06",
         "1a3bdd23",
         "dff4b150",
@@ -5287,14 +5836,12 @@
         "580cbbae",
         "64c638f4",
         "69b25d66",
-        "24a0895b",
         "b1383308",
         "f8d54f16",
         "5e62590c",
         "40ea5e94",
         "eb38aebb",
         "85560c8a",
-        "f0302e19",
         "9fdec837",
         "0cefefbc",
         "c248259b",
@@ -5327,14 +5874,18 @@
         "d273ba77",
         "68742934",
         "3edc59bf",
+        "e8ee5514",
+        "2292aab6",
+        "75de4c14",
         "fac367e2",
         "2db11a52",
         "d64f2d03",
         "46327ff6",
         "85a0da6c",
-        "a6be9af5",
+        "581a53c8",
         "2e5629b5",
         "a90d3977",
+        "0861d0b3",
         "6772ded1",
         "b7d54170",
         "235a98fb",
@@ -5361,18 +5912,19 @@
         "bb0dcc2a",
         "a1543a19",
         "ded7eaa1",
+        "187000d0",
         "5ab070fc",
         "60f51b57",
         "982a7b44",
         "8c4c211f",
         "f94b3902",
-        "f5b15d00",
         "0183b615",
         "2f0c58b3",
         "be137b2e",
         "f5460d57",
         "a5a01a97",
         "7da5dacd",
+        "8ee3f263",
         "02b2b6df",
         "a238e5bd",
         "5ea6c0cc",
@@ -5382,7 +5934,9 @@
         "b651aa85",
         "83b6390f",
         "88bfc0cb",
+        "3731bf2e",
         "95e763e1",
+        "3d9a76fb",
         "9e8c8fc5",
         "6161499c",
         "258bddb2",
@@ -5391,10 +5945,7 @@
         "ce124b01",
         "38f15499",
         "5ea1719f",
-        "d518396b",
         "59fe7d0a",
-        "623c814d",
-        "413089e3",
         "336d8c22",
         "22b1d1f9",
         "7e814cb7",
@@ -5403,7 +5954,6 @@
         "cbb3d138",
         "f73fab0a",
         "d7759e91",
-        "0539b385",
         "41e09539",
         "f6ebd39c",
         "2ca00b10",
@@ -5413,12 +5963,17 @@
         "df13538a",
         "9405b8a5",
         "fba04469",
+        "9f9feb74",
+        "8d3d14cf",
         "0c65d825",
         "bdaf5ec0",
         "55b31ba8",
         "e0c37afa",
         "edd2691f",
         "c8e0149d",
+        "b8a9d650",
+        "cede62b7",
+        "f640d991",
         "e02bdae7",
         "ad195f76",
         "3afcdc16",
@@ -5426,7 +5981,12 @@
         "a66578a6",
         "93a242c7",
         "95c96790",
-        "a685537e"
+        "a685537e",
+        "7585c0aa",
+        "c1c58233",
+        "bd18d74a",
+        "7c1b5f0c",
+        "13352415"
       ],
       "docs_detail": [
         {
@@ -5979,6 +6539,57 @@
           ]
         },
         {
+          "id": "23558b3e",
+          "title": "Agenda política. Coalición de Mujeres del Caribe por la Tierra y el Territorio",
+          "score": 9,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
+          "score": 9,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "e7de54e2",
+          "title": "LIRE LE DÉPLIANT QUE NOUS DIFFUSONS",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "4bc13839",
+          "title": "06.05_2026_catalogue.pdf",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "abcacc36",
+          "title": "Autogestion et Hiérarchie",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "912628dd",
+          "title": "Ni dieu ni maître ni ordre moral de Jack Déjean",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
           "id": "9e831a55",
           "title": "Tree, The Rock, and the Morrow",
           "score": 8,
@@ -6070,6 +6681,47 @@
           ]
         },
         {
+          "id": "ae302e09",
+          "title": "ASCAB, pérégrinations de trois saisonnières dans le pétrin",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "622ada75",
+          "title": "Le Vent d’Autan",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "f281245c",
+          "title": "Le Vent d’Autan",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "2bf90eb8",
+          "title": "Download",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "souveraineté alimentaire",
+            "agriculture paysanne",
+            "peasant",
+            "agroecology"
+          ]
+        },
+        {
           "id": "b4712d32",
           "title": "Agricultures libertaires DIY",
           "score": 8,
@@ -6077,6 +6729,51 @@
             "paysannerie",
             "paysan",
             "agriculture vivrière"
+          ]
+        },
+        {
+          "id": "a6be9af5",
+          "title": "Agricultures libertaires et révolutions",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "163ae6f7",
+          "title": "Petit Petit guide de panification 3 — le guide du four et du matériel de la boulange",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "666523c7",
+          "title": "Petit guide de panification 2 — Recettes",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "8fed46af",
+          "title": "Petit guide de panification 1 — l’intégrale en dessin",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "8eaeefa8",
+          "title": "Transgender Warriors — version page par page",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
           ]
         },
         {
@@ -6102,6 +6799,49 @@
           ]
         },
         {
+          "id": "646b9c77",
+          "title": "La baguette magique de l’agro-industrie — version cahier.",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie"
+          ]
+        },
+        {
+          "id": "b8b0bfd8",
+          "title": "Industriellt Jordbruk och Klimatkaos (version suédoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "agriculture vivrière",
+            "souveraineté alimentaire"
+          ]
+        },
+        {
+          "id": "fe77002b",
+          "title": "Det industrielle landbrug og klimakaos (version danoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "souveraineté alimentaire",
+            "peasant"
+          ]
+        },
+        {
+          "id": "918423ee",
+          "title": "Faites vos jeux !",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
           "id": "afcd5ef8",
           "title": "Cultiver ou mourir",
           "score": 8,
@@ -6112,8 +6852,91 @@
           ]
         },
         {
+          "id": "2f5fce84",
+          "title": "Pour une agriculture sans exploitation animale",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "4bbf2e69",
+          "title": "Kein Dialog war möglich — En allemand — Page par page",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "9063702b",
+          "title": "Il n’y avait pas de dialogue possible — Page par page",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
           "id": "22b9da21",
           "title": "Marcel, paysan indéracinable (livret A5, 24 pages)",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "30dd9387",
+          "title": "En un quart d’heure c’est fait !",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "07940923",
+          "title": "Viertelstunde — en allemand",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "ce49e81f",
+          "title": "Viertelstunde — en allemand",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "9e511b52",
+          "title": "En un quart d’heure c’est fait !",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "51240b12",
+          "title": "\"Mes brebis comme des machines\"",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "agriculture paysanne"
+          ]
+        },
+        {
+          "id": "6354361d",
+          "title": "\"Mes brebis comme des machines\"",
           "score": 8,
           "matched_on": [
             "paysannerie",
@@ -6130,8 +6953,64 @@
           ]
         },
         {
+          "id": "c8e1f2ff",
+          "title": "Plantons le thym, la montagne fleurira",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie"
+          ]
+        },
+        {
+          "id": "6081d442",
+          "title": "Plantons le thym, la montagne fleurira",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie"
+          ]
+        },
+        {
           "id": "f61a2368",
           "title": "Radicaux urbains, paysans : la révolution anglaise",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "71a3ece0",
+          "title": "Des moutons et des hommes",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "42c901d1",
+          "title": "Des moutons et des hommes",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "d2026e14",
+          "title": "Le progrès, c’est mal ! — version page par page",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "9b78288d",
+          "title": "Le progrès, c’est mal ! — version cahier",
           "score": 8,
           "matched_on": [
             "paysannerie",
@@ -6171,6 +7050,289 @@
           "matched_on": [
             "agroécologie",
             "souveraineté alimentaire"
+          ]
+        },
+        {
+          "id": "128a75f4",
+          "title": "Qui a peur de la critique anti-industrielle ? par le Collectif Ruptures",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "8ff46085",
+          "title": "Qu’est-ce qu’un anarchiste ?",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "51095869",
+          "title": "Dieu et l’État",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "d3935a89",
+          "title": "Trois conférences faites aux ouvriers du Val De Saint Imier",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "e381560e",
+          "title": "Le catéchisme révolutionnaire",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "6e4b7ca0",
+          "title": "L’instruction intégrale",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "896e3af6",
+          "title": "Considérations philosophiques sur le fantôme divin, le monde réel et l’homme",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "6391beef",
+          "title": "De la servitude moderne",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "f1edebd7",
+          "title": "Ni victime ni bourreaux",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "601f739b",
+          "title": "Les carrefours du labyrinthe",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "cfbe4c14",
+          "title": "L’insurrection qui vient",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "638b6873",
+          "title": "Les feuilles-doc",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "5e830a81",
+          "title": "La société du spectacle",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "ffe7f924",
+          "title": "Commentaires sur la société du spectacle",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "a3eb49c6",
+          "title": "Discours de la servitude volontaire",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "fcb6b3b5",
+          "title": "tome 1",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "1dd24299",
+          "title": "tome 2",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "18168098",
+          "title": "tome 3",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "bcba2dfb",
+          "title": "L’anarchisme",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "865d2d05",
+          "title": "L’État et son rôle historique",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "4bed639a",
+          "title": "Autour d’une vie (Mémoires d’un révolutionnaire)",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "19b829be",
+          "title": "le droit à la paresse",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "16e8446d",
+          "title": "L’Espagne libertaire",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "66a991a4",
+          "title": "Introduction à l’économie politique",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "089a2666",
+          "title": "Manuscrits de 1844",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "ddf347f1",
+          "title": "La misère",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "d5e0958e",
+          "title": "Au delà du personnel",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "6c98994c",
+          "title": "L’ incendie millénariste",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "5e8be4ad",
+          "title": "Un anarchiste de la belle époque, Alexandre Jacob",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "81ca672f",
+          "title": "tome 1",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "585665f8",
+          "title": "tome 2",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "f5020d9a",
+          "title": "Liberté sur paroles de C. Soulié",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
           ]
         },
         {
@@ -6376,6 +7538,14 @@
         {
           "id": "3ab1a62b",
           "title": "Dossier « Réaffectations du foncier : régulation étatique, investissements privés et initiatives citoyennes » - Quels enjeux liés à l’arrivée d’investisseurs agro-industriels étrangers en République du Congo ? Contexte agricole et foncier",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "f75b67b2",
+          "title": "Download in Spanish",
           "score": 8,
           "matched_on": [
             "paysan"
@@ -6722,15 +7892,6 @@
           ]
         },
         {
-          "id": "24a0895b",
-          "title": "Boletín EN",
-          "score": 8,
-          "matched_on": [
-            "paysannerie",
-            "paysan"
-          ]
-        },
-        {
           "id": "b1383308",
           "title": "EN-WEB-Annual_Report_2019",
           "score": 8,
@@ -6796,18 +7957,6 @@
             "peasant",
             "agroecology",
             "food sovereignty"
-          ]
-        },
-        {
-          "id": "f0302e19",
-          "title": "COMMUNIQUÉ DE PRESSE UNAC 17 abril",
-          "score": 8,
-          "matched_on": [
-            "paysannerie",
-            "paysan",
-            "agroécologie",
-            "agriculture vivrière",
-            "souveraineté alimentaire"
           ]
         },
         {
@@ -7093,6 +8242,34 @@
           ]
         },
         {
+          "id": "e8ee5514",
+          "title": "Migraciones, agro, tercer cercamiento capitalista y el procomún",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "souveraineté alimentaire"
+          ]
+        },
+        {
+          "id": "2292aab6",
+          "title": "Mini-Manuel : Communalisme",
+          "score": 8,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "75de4c14",
+          "title": "Mini-Manuel : Forêts nourricières",
+          "score": 8,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agriculture paysanne"
+          ]
+        },
+        {
           "id": "fac367e2",
           "title": "Ricardo Flores Magón, — Regeneración 1910",
           "score": 7,
@@ -7141,8 +8318,8 @@
           ]
         },
         {
-          "id": "a6be9af5",
-          "title": "Agricultures libertaires et révolutions",
+          "id": "581a53c8",
+          "title": "ILC — Cartes des constituencies (2025)",
           "score": 7,
           "matched_on": [
             "paysannerie",
@@ -7163,6 +8340,15 @@
         {
           "id": "a90d3977",
           "title": "Que reste-t-il du champ des possibles sur la ZAD ?",
+          "score": 7,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "0861d0b3",
+          "title": "Les Bure à cuire n°1",
           "score": 7,
           "matched_on": [
             "paysannerie",
@@ -7413,6 +8599,18 @@
           ]
         },
         {
+          "id": "187000d0",
+          "title": "Download in German",
+          "score": 7,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "agriculture vivrière",
+            "souveraineté alimentaire"
+          ]
+        },
+        {
           "id": "5ab070fc",
           "title": "lvc_IT_A-Summit-Under-Siege_lowres2",
           "score": 7,
@@ -7469,19 +8667,6 @@
             "souveraineté alimentaire",
             "agriculture paysanne",
             "peasant",
-            "food sovereignty"
-          ]
-        },
-        {
-          "id": "f5b15d00",
-          "title": "BRIGADAS_INTERNACIONALISTA_Inglês",
-          "score": 7,
-          "matched_on": [
-            "paysannerie",
-            "paysan",
-            "agroécologie",
-            "peasant",
-            "agroecology",
             "food sovereignty"
           ]
         },
@@ -7563,6 +8748,14 @@
             "agriculture vivrière",
             "souveraineté alimentaire",
             "peasant"
+          ]
+        },
+        {
+          "id": "8ee3f263",
+          "title": "Ostrom, E. : El Gobierno de los Bienes Comunes. La Evolución de las Instituciones de Acción Colectiva, México, 2000.",
+          "score": 7,
+          "matched_on": [
+            "paysan"
           ]
         },
         {
@@ -7651,8 +8844,28 @@
           ]
         },
         {
+          "id": "3731bf2e",
+          "title": "Pied à terre — version page par page",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
           "id": "95e763e1",
           "title": "Pour la justice climatique, écrasons l'agriculture industrielle (livret couleur inverse)",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "souveraineté alimentaire"
+          ]
+        },
+        {
+          "id": "3d9a76fb",
+          "title": "Die Industrielle Landwirtschaft und das Klimachaos (version allemande — booklet)",
           "score": 6,
           "matched_on": [
             "paysannerie",
@@ -7737,35 +8950,8 @@
           ]
         },
         {
-          "id": "d518396b",
-          "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "paysannerie",
-            "paysan"
-          ]
-        },
-        {
           "id": "59fe7d0a",
           "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "paysannerie",
-            "paysan"
-          ]
-        },
-        {
-          "id": "623c814d",
-          "title": "The Movement is Dead, Long Live… Reform ! (version anglaise)",
-          "score": 6,
-          "matched_on": [
-            "paysannerie",
-            "paysan"
-          ]
-        },
-        {
-          "id": "413089e3",
-          "title": "Le mouvement est mort, vive la réforme !",
           "score": 6,
           "matched_on": [
             "paysannerie",
@@ -7839,14 +9025,6 @@
         {
           "id": "d7759e91",
           "title": "La colonisation de la Palestine et ses conséquences — version cahier",
-          "score": 6,
-          "matched_on": [
-            "paysan"
-          ]
-        },
-        {
-          "id": "0539b385",
-          "title": "Nature et anarchie,",
           "score": 6,
           "matched_on": [
             "paysan"
@@ -7941,6 +9119,24 @@
           ]
         },
         {
+          "id": "9f9feb74",
+          "title": "2025_3_ilc_po_maps_of_all_constituencies_by_country_youth.pdf",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "8d3d14cf",
+          "title": "Download brochure",
+          "score": 6,
+          "matched_on": [
+            "paysan",
+            "peasant"
+          ]
+        },
+        {
           "id": "0c65d825",
           "title": "structural problems of the food system",
           "score": 6,
@@ -8000,6 +9196,43 @@
           "matched_on": [
             "paysannerie",
             "paysan"
+          ]
+        },
+        {
+          "id": "b8a9d650",
+          "title": "Download in PDF",
+          "score": 6,
+          "matched_on": [
+            "paysan",
+            "agroécologie",
+            "agriculture paysanne",
+            "peasant",
+            "agroecology"
+          ]
+        },
+        {
+          "id": "cede62b7",
+          "title": "Download in French",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "agriculture vivrière",
+            "souveraineté alimentaire"
+          ]
+        },
+        {
+          "id": "f640d991",
+          "title": "Download in Greek",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie",
+            "agriculture vivrière",
+            "souveraineté alimentaire",
+            "agriculture paysanne"
           ]
         },
         {
@@ -8082,6 +9315,50 @@
             "agroecology",
             "food sovereignty"
           ]
+        },
+        {
+          "id": "7585c0aa",
+          "title": "Ostrom, E. — El gobierno de los bienes comunes",
+          "score": 6,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "c1c58233",
+          "title": "nuevo_fichero.pdf",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
+        },
+        {
+          "id": "bd18d74a",
+          "title": "Descripción Solicitud de Tierra",
+          "score": 6,
+          "matched_on": [
+            "paysan"
+          ]
+        },
+        {
+          "id": "7c1b5f0c",
+          "title": "História Agrária Da Revolução Cubana — Joana Vasconcelos",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan",
+            "agroécologie"
+          ]
+        },
+        {
+          "id": "13352415",
+          "title": "Silent theft : the private plunder of our common wealth",
+          "score": 6,
+          "matched_on": [
+            "paysannerie",
+            "paysan"
+          ]
         }
       ]
     },
@@ -8089,7 +9366,7 @@
       "slug": "land-back-autochtones",
       "titre": "Land Back & souverainetés autochtones",
       "chapo": "Restituer la terre aux peuples premiers : Land Back en Amérique du Nord, terras indígenas, autonomies territoriales. La critique de la propriété coloniale et les luttes pour la souveraineté.",
-      "doc_count": 83,
+      "doc_count": 91,
       "docs": [
         "39441dfc",
         "c2ab1111",
@@ -8112,16 +9389,19 @@
         "cc218f22",
         "5362046f",
         "a15fbe47",
+        "fb76b5a1",
         "9e831a55",
         "55db5001",
         "0b22d51b",
         "a91bd215",
+        "2bf90eb8",
         "b0917bdf",
         "afcd5ef8",
         "47c6599a",
         "f61a2368",
         "2c9a5575",
         "19101c21",
+        "aa5d50ec",
         "54f18780",
         "95ced9d7",
         "7f6bdc89",
@@ -8137,13 +9417,14 @@
         "425ed458",
         "580cbbae",
         "64c638f4",
-        "24a0895b",
         "b1383308",
         "f8d54f16",
         "eb38aebb",
         "85560c8a",
         "0cefefbc",
         "54ae9934",
+        "e8ee5514",
+        "581a53c8",
         "12a4e254",
         "a54f94c8",
         "467b0d83",
@@ -8156,6 +9437,7 @@
         "3fd40433",
         "ac638fb6",
         "8741a8e6",
+        "187000d0",
         "60f51b57",
         "8c4c211f",
         "0183b615",
@@ -8166,6 +9448,8 @@
         "83eafaac",
         "b9a459d4",
         "df13538a",
+        "9f9feb74",
+        "8d3d14cf",
         "bdaf5ec0",
         "55b31ba8",
         "e0c37afa",
@@ -8173,7 +9457,8 @@
         "9975470e",
         "ad195f76",
         "3afcdc16",
-        "a685537e"
+        "a685537e",
+        "7585c0aa"
       ],
       "docs_detail": [
         {
@@ -8360,6 +9645,14 @@
           ]
         },
         {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
+          "score": 9,
+          "matched_on": [
+            "droit coutumier"
+          ]
+        },
+        {
           "id": "9e831a55",
           "title": "Tree, The Rock, and the Morrow",
           "score": 8,
@@ -8390,6 +9683,15 @@
           "score": 8,
           "matched_on": [
             "indigène"
+          ]
+        },
+        {
+          "id": "2bf90eb8",
+          "title": "Download",
+          "score": 8,
+          "matched_on": [
+            "autochtone",
+            "indigenous"
           ]
         },
         {
@@ -8442,6 +9744,15 @@
           "matched_on": [
             "autochtone",
             "terra indígena",
+            "indigenous"
+          ]
+        },
+        {
+          "id": "aa5d50ec",
+          "title": "La révolte maori de 1863",
+          "score": 8,
+          "matched_on": [
+            "autochtone",
             "indigenous"
           ]
         },
@@ -8569,14 +9880,6 @@
           ]
         },
         {
-          "id": "24a0895b",
-          "title": "Boletín EN",
-          "score": 8,
-          "matched_on": [
-            "autochtone"
-          ]
-        },
-        {
           "id": "b1383308",
           "title": "EN-WEB-Annual_Report_2019",
           "score": 8,
@@ -8627,6 +9930,23 @@
           "matched_on": [
             "autochtone",
             "indigenous"
+          ]
+        },
+        {
+          "id": "e8ee5514",
+          "title": "Migraciones, agro, tercer cercamiento capitalista y el procomún",
+          "score": 8,
+          "matched_on": [
+            "autochtone",
+            "droit coutumier"
+          ]
+        },
+        {
+          "id": "581a53c8",
+          "title": "ILC — Cartes des constituencies (2025)",
+          "score": 7,
+          "matched_on": [
+            "autochtone"
           ]
         },
         {
@@ -8736,6 +10056,14 @@
           ]
         },
         {
+          "id": "187000d0",
+          "title": "Download in German",
+          "score": 7,
+          "matched_on": [
+            "droit coutumier"
+          ]
+        },
+        {
           "id": "60f51b57",
           "title": "LVC Position_FR_UN Food Summit_2020_LowRes3",
           "score": 7,
@@ -8820,6 +10148,23 @@
           ]
         },
         {
+          "id": "9f9feb74",
+          "title": "2025_3_ilc_po_maps_of_all_constituencies_by_country_youth.pdf",
+          "score": 6,
+          "matched_on": [
+            "autochtone"
+          ]
+        },
+        {
+          "id": "8d3d14cf",
+          "title": "Download brochure",
+          "score": 6,
+          "matched_on": [
+            "indigène",
+            "indigenous"
+          ]
+        },
+        {
           "id": "bdaf5ec0",
           "title": "IMPRESSÃO_Caderno de formação de militantes_260126_090557",
           "score": 6,
@@ -8884,6 +10229,14 @@
             "autochtone",
             "indigenous"
           ]
+        },
+        {
+          "id": "7585c0aa",
+          "title": "Ostrom, E. — El gobierno de los bienes comunes",
+          "score": 6,
+          "matched_on": [
+            "autochtone"
+          ]
         }
       ]
     },
@@ -8891,7 +10244,7 @@
       "slug": "feminismes-de-la-terre",
       "titre": "Féminismes de la terre",
       "chapo": "Le foncier a un genre. Place des femmes dans les luttes agraires, droits fonciers des femmes, écoféminisme rural, critique de la division genrée du travail de la terre.",
-      "doc_count": 29,
+      "doc_count": 32,
       "docs": [
         "7361abcf",
         "1ef49d91",
@@ -8904,8 +10257,10 @@
         "59b9dd0b",
         "41df6222",
         "5362046f",
+        "23558b3e",
         "9e831a55",
         "c99e6da4",
+        "2bf90eb8",
         "f7775b72",
         "43584cf4",
         "580cbbae",
@@ -8915,6 +10270,7 @@
         "0a70b2b3",
         "54ae9934",
         "2ff9a5d7",
+        "581a53c8",
         "3fe8867b",
         "ac638fb6",
         "ded7eaa1",
@@ -9026,6 +10382,16 @@
           ]
         },
         {
+          "id": "23558b3e",
+          "title": "Agenda política. Coalición de Mujeres del Caribe por la Tierra y el Territorio",
+          "score": 9,
+          "matched_on": [
+            "féminisme paysan",
+            "féminisme agraire",
+            "mujeres campesinas"
+          ]
+        },
+        {
           "id": "9e831a55",
           "title": "Tree, The Rock, and the Morrow",
           "score": 8,
@@ -9041,6 +10407,14 @@
           "matched_on": [
             "féminisme paysan",
             "féminisme agraire",
+            "droits fonciers des femmes"
+          ]
+        },
+        {
+          "id": "2bf90eb8",
+          "title": "Download",
+          "score": 8,
+          "matched_on": [
             "droits fonciers des femmes"
           ]
         },
@@ -9123,6 +10497,18 @@
           ]
         },
         {
+          "id": "581a53c8",
+          "title": "ILC — Cartes des constituencies (2025)",
+          "score": 7,
+          "matched_on": [
+            "féminisme paysan",
+            "féminisme agraire",
+            "droits fonciers des femmes",
+            "femmes et terre",
+            "mujeres campesinas"
+          ]
+        },
+        {
           "id": "3fe8867b",
           "title": "500 Years of Indigenous Resistance (version anglaise — cahier)",
           "score": 7,
@@ -9184,7 +10570,7 @@
       "slug": "accaparements-resistances",
       "titre": "Accaparements & résistances",
       "chapo": "L'autre face du foncier : land grabbing, concessions, accaparements au Sud comme au Nord, et les résistances qui s'y opposent. Enquêtes et contre-cartographies.",
-      "doc_count": 115,
+      "doc_count": 130,
       "docs": [
         "d30c223f",
         "39441dfc",
@@ -9219,6 +10605,8 @@
         "41df6222",
         "5362046f",
         "a15fbe47",
+        "23558b3e",
+        "fb76b5a1",
         "c99e6da4",
         "55db5001",
         "e5341cc9",
@@ -9228,9 +10616,13 @@
         "5f5dadd2",
         "97c3bbb4",
         "1ce39b6d",
+        "2bf90eb8",
+        "b8b0bfd8",
+        "fe77002b",
         "afcd5ef8",
         "f61a2368",
         "32ccb418",
+        "aa5d50ec",
         "54f18780",
         "9f16b851",
         "95ced9d7",
@@ -9242,6 +10634,7 @@
         "88dfd6e3",
         "037cb37e",
         "3ab1a62b",
+        "f75b67b2",
         "16c630c0",
         "f57050e5",
         "a18b6293",
@@ -9253,8 +10646,10 @@
         "85560c8a",
         "54ae9934",
         "2ff9a5d7",
+        "e8ee5514",
         "2db11a52",
         "85a0da6c",
+        "581a53c8",
         "79cc5801",
         "a54f94c8",
         "467b0d83",
@@ -9270,6 +10665,7 @@
         "8741a8e6",
         "79ba213c",
         "f075bd56",
+        "187000d0",
         "5ab070fc",
         "60f51b57",
         "f94b3902",
@@ -9282,25 +10678,30 @@
         "d992c836",
         "83b6390f",
         "88bfc0cb",
+        "3731bf2e",
         "95e763e1",
+        "3d9a76fb",
         "5ea1719f",
         "59fe7d0a",
-        "413089e3",
         "779edb5d",
         "d7759e91",
         "83eafaac",
-        "0539b385",
         "961e54e4",
         "fcb58745",
         "14f9c4d0",
         "fba04469",
+        "8d3d14cf",
         "bdaf5ec0",
         "55b31ba8",
         "e0c37afa",
+        "b8a9d650",
+        "cede62b7",
+        "f640d991",
         "e02bdae7",
         "a66578a6",
         "93a242c7",
-        "95c96790"
+        "95c96790",
+        "94025f98"
       ],
       "docs_detail": [
         {
@@ -9579,6 +10980,24 @@
           ]
         },
         {
+          "id": "23558b3e",
+          "title": "Agenda política. Coalición de Mujeres del Caribe por la Tierra y el Territorio",
+          "score": 9,
+          "matched_on": [
+            "accaparement"
+          ]
+        },
+        {
+          "id": "fb76b5a1",
+          "title": "El Manifiesto de la Carta Magna",
+          "score": 9,
+          "matched_on": [
+            "land grab",
+            "enclosure",
+            "extractivis"
+          ]
+        },
+        {
           "id": "c99e6da4",
           "title": "Eskum 3 in 1",
           "score": 8,
@@ -9652,6 +11071,31 @@
           ]
         },
         {
+          "id": "2bf90eb8",
+          "title": "Download",
+          "score": 8,
+          "matched_on": [
+            "accaparement"
+          ]
+        },
+        {
+          "id": "b8b0bfd8",
+          "title": "Industriellt Jordbruk och Klimatkaos (version suédoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "accaparement",
+            "enclosure"
+          ]
+        },
+        {
+          "id": "fe77002b",
+          "title": "Det industrielle landbrug og klimakaos (version danoise — booklet)",
+          "score": 8,
+          "matched_on": [
+            "accaparement"
+          ]
+        },
+        {
           "id": "afcd5ef8",
           "title": "Cultiver ou mourir",
           "score": 8,
@@ -9671,6 +11115,15 @@
         {
           "id": "32ccb418",
           "title": "pdf",
+          "score": 8,
+          "matched_on": [
+            "accaparement",
+            "land grab"
+          ]
+        },
+        {
+          "id": "aa5d50ec",
+          "title": "La révolte maori de 1863",
           "score": 8,
           "matched_on": [
             "accaparement",
@@ -9773,6 +11226,15 @@
           ]
         },
         {
+          "id": "f75b67b2",
+          "title": "Download in Spanish",
+          "score": 8,
+          "matched_on": [
+            "accaparement",
+            "acaparamiento"
+          ]
+        },
+        {
           "id": "16c630c0",
           "title": "[PT] Manifesto 5 de junho – O planeta acima do lucro – Uma só Terra",
           "score": 8,
@@ -9866,6 +11328,15 @@
           ]
         },
         {
+          "id": "e8ee5514",
+          "title": "Migraciones, agro, tercer cercamiento capitalista y el procomún",
+          "score": 8,
+          "matched_on": [
+            "enclosure",
+            "extractivis"
+          ]
+        },
+        {
           "id": "2db11a52",
           "title": "Chaire Valcom — Valoriser les communs fonciers",
           "score": 7,
@@ -9880,6 +11351,15 @@
           "score": 7,
           "matched_on": [
             "enclosure"
+          ]
+        },
+        {
+          "id": "581a53c8",
+          "title": "ILC — Cartes des constituencies (2025)",
+          "score": 7,
+          "matched_on": [
+            "accaparement",
+            "extractivis"
           ]
         },
         {
@@ -10008,6 +11488,16 @@
           ]
         },
         {
+          "id": "187000d0",
+          "title": "Download in German",
+          "score": 7,
+          "matched_on": [
+            "accaparement",
+            "land grab",
+            "enclosure"
+          ]
+        },
+        {
           "id": "5ab070fc",
           "title": "lvc_IT_A-Summit-Under-Siege_lowres2",
           "score": 7,
@@ -10105,11 +11595,30 @@
           ]
         },
         {
+          "id": "3731bf2e",
+          "title": "Pied à terre — version page par page",
+          "score": 6,
+          "matched_on": [
+            "accaparement",
+            "enclosure",
+            "extractivis"
+          ]
+        },
+        {
           "id": "95e763e1",
           "title": "Pour la justice climatique, écrasons l'agriculture industrielle (livret couleur inverse)",
           "score": 6,
           "matched_on": [
             "accaparement"
+          ]
+        },
+        {
+          "id": "3d9a76fb",
+          "title": "Die Industrielle Landwirtschaft und das Klimachaos (version allemande — booklet)",
+          "score": 6,
+          "matched_on": [
+            "accaparement",
+            "land grab"
           ]
         },
         {
@@ -10123,14 +11632,6 @@
         {
           "id": "59fe7d0a",
           "title": "Il \"movimento\" è morto, viva la... riforma ! (version italienne)",
-          "score": 6,
-          "matched_on": [
-            "accaparement"
-          ]
-        },
-        {
-          "id": "413089e3",
-          "title": "Le mouvement est mort, vive la réforme !",
           "score": 6,
           "matched_on": [
             "accaparement"
@@ -10158,14 +11659,6 @@
           "score": 6,
           "matched_on": [
             "accaparement"
-          ]
-        },
-        {
-          "id": "0539b385",
-          "title": "Nature et anarchie,",
-          "score": 6,
-          "matched_on": [
-            "extractivis"
           ]
         },
         {
@@ -10203,6 +11696,14 @@
           ]
         },
         {
+          "id": "8d3d14cf",
+          "title": "Download brochure",
+          "score": 6,
+          "matched_on": [
+            "land grab"
+          ]
+        },
+        {
           "id": "bdaf5ec0",
           "title": "IMPRESSÃO_Caderno de formação de militantes_260126_090557",
           "score": 6,
@@ -10223,6 +11724,33 @@
           "title": "Bienes comunes",
           "score": 6,
           "matched_on": [
+            "enclosure"
+          ]
+        },
+        {
+          "id": "b8a9d650",
+          "title": "Download in PDF",
+          "score": 6,
+          "matched_on": [
+            "accaparement",
+            "land grab",
+            "enclosure"
+          ]
+        },
+        {
+          "id": "cede62b7",
+          "title": "Download in French",
+          "score": 6,
+          "matched_on": [
+            "accaparement"
+          ]
+        },
+        {
+          "id": "f640d991",
+          "title": "Download in Greek",
+          "score": 6,
+          "matched_on": [
+            "accaparement",
             "enclosure"
           ]
         },
@@ -10260,6 +11788,14 @@
             "accaparement",
             "land grab"
           ]
+        },
+        {
+          "id": "94025f98",
+          "title": "DENUNCIA AMBIENTAL",
+          "score": 6,
+          "matched_on": [
+            "accaparement"
+          ]
         }
       ]
     },
@@ -10267,7 +11803,7 @@
       "slug": "cooperatives-mutualisme",
       "titre": "Coopératives & mutualisme foncier",
       "chapo": "S'associer pour la terre : coopératives agricoles, GFA mutuels, foncières solidaires, mutuelles. Une économie de la terre fondée sur l'entraide plutôt que sur la rente.",
-      "doc_count": 25,
+      "doc_count": 26,
       "docs": [
         "c3bb4444",
         "95b490c8",
@@ -10283,7 +11819,6 @@
         "679c85f6",
         "7b77750e",
         "ddc6e0b0",
-        "24a0895b",
         "0a70b2b3",
         "2a87f34f",
         "41e18c26",
@@ -10293,7 +11828,9 @@
         "5c511048",
         "961e54e4",
         "fcb58745",
-        "6a9cba09"
+        "6a9cba09",
+        "bd18d74a",
+        "7c1b5f0c"
       ],
       "docs_detail": [
         {
@@ -10411,14 +11948,6 @@
           ]
         },
         {
-          "id": "24a0895b",
-          "title": "Boletín EN",
-          "score": 8,
-          "matched_on": [
-            "coopérative agricole"
-          ]
-        },
-        {
           "id": "0a70b2b3",
           "title": "Zimbabwe final_layout",
           "score": 8,
@@ -10494,6 +12023,22 @@
         {
           "id": "6a9cba09",
           "title": "La embargabilidad en el régimen económico de las cooperativas de viviendas de Euskadi",
+          "score": 6,
+          "matched_on": [
+            "cooperativa"
+          ]
+        },
+        {
+          "id": "bd18d74a",
+          "title": "Descripción Solicitud de Tierra",
+          "score": 6,
+          "matched_on": [
+            "cooperativa"
+          ]
+        },
+        {
+          "id": "7c1b5f0c",
+          "title": "História Agrária Da Revolução Cubana — Joana Vasconcelos",
           "score": 6,
           "matched_on": [
             "cooperativa"
