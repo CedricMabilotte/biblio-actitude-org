@@ -1,16 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
-  <rect width="1200" height="630" fill="#f7f2e7"/>
-  <rect x="0" y="0" width="1200" height="14" fill="#a44a2c"/>
-  <text x="600" y="270" text-anchor="middle"
-        font-family="EB Garamond, Georgia, serif"
-        font-size="180" font-weight="600" fill="#231f1c" letter-spacing="10">BIBLIO</text>
-  <text x="600" y="340" text-anchor="middle"
-        font-family="EB Garamond, Georgia, serif"
-        font-size="34" font-style="italic" fill="#5a4f43">Bibliothèque documentaire ouverte</text>
-  <text x="600" y="440" text-anchor="middle"
-        font-family="system-ui, sans-serif"
-        font-size="26" fill="#7a6f60">Communs · terres · paysanneries</text>
-  <text x="600" y="560" text-anchor="middle"
-        font-family="system-ui, sans-serif"
-        font-size="20" fill="#a44a2c" letter-spacing="4">UN PROJET DE ACTITUDE.ORG</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <!-- Carte sociale par défaut BIBLIO — thème Académique. Texte en EB Garamond / Inter :
+       à rasteriser avec les polices chargées (Chrome headless), pas avec rsvg sans polices installées. -->
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <rect width="400" height="630" fill="#1f3a5f"/>
+  <g transform="translate(72 187) scale(8)">
+    <g fill="#ffffff">
+      <rect x="5" y="8" width="4" height="18"/>
+      <path fill-rule="evenodd" d="M11 4h4v22h-4z M12 8h2v3h-2z"/>
+      <rect x="17" y="10" width="4" height="16"/>
+      <rect x="3" y="26" width="26" height="2"/>
+    </g>
+    <rect x="25" y="10" width="4" height="16" transform="rotate(-14 25 26)" fill="#c9b46f"/>
+  </g>
+  <text x="470" y="282" font-family="EB Garamond, Georgia, serif" font-size="132" font-weight="600" letter-spacing="2.6" fill="#1a2233">BIBLIO</text>
+  <text x="472" y="342" font-family="EB Garamond, Georgia, serif" font-size="38" font-style="italic" fill="#3f4a60">Bibliothèque documentaire ouverte</text>
+  <rect x="472" y="384" width="80" height="3" fill="#7a6321"/>
+  <text x="472" y="438" font-family="Inter, system-ui, sans-serif" font-size="24" fill="#3f4a60">Communs fonciers · propriété d’usage · paysanneries</text>
+  <text x="472" y="566" font-family="Inter, system-ui, sans-serif" font-size="20" font-weight="600" letter-spacing="2" fill="#1f3a5f">BIBLIO.ACTITUDE.ORG</text>
 </svg>
