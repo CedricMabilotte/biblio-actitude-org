@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-07T09:47:20Z",
-  "total": 2251,
-  "total_docs": 2251,
-  "total_downloaded": 1515,
-  "total_published": 1012,
+  "generated_at": "2026-11-23T12:00:00Z",
+  "total": 2336,
+  "total_docs": 2336,
+  "total_downloaded": 1528,
+  "total_published": 1028,
   "by_lang": {
-    "en": 1024,
-    "fr": 417,
-    "es": 267,
-    "inconnu": 258,
+    "en": 1083,
+    "fr": 418,
+    "inconnu": 275,
+    "es": 273,
     "pt": 227,
-    "de": 41,
+    "de": 43,
     "it": 7,
     "sw": 5,
     "el": 2,
@@ -19,12 +19,12 @@
     "tr": 1
   },
   "by_language": {
-    "en": 1024,
-    "fr": 417,
-    "es": 267,
-    "inconnu": 258,
+    "en": 1083,
+    "fr": 418,
+    "inconnu": 275,
+    "es": 273,
     "pt": 227,
-    "de": 41,
+    "de": 43,
     "it": 7,
     "sw": 5,
     "el": 2,
@@ -33,29 +33,29 @@
     "tr": 1
   },
   "by_source": {
-    "La Vía Campesina — publications (WP REST)": 559,
-    "Archive.org — commons / enclosure / agrarian (strict)": 291,
+    "La Vía Campesina — publications (WP REST)": 562,
+    "Archive.org — commons / enclosure / agrarian (strict)": 311,
     "MST Brésil — biblioteca (WP REST API)": 209,
+    "Archive.org — théorie des communs (Ostrom, CPR, collective action)": 122,
     "Infokiosques.net — Paysannerie & ruralité": 121,
+    "Archive.org — féminisme et communs (Federici, accumulation primitive)": 117,
+    "Archive.org — community land trusts & housing commons": 113,
     "CRAS (Centre de Recherches sur les Alternatives Sociales)": 110,
-    "Archive.org — community land trusts & housing commons": 104,
     "CLACSO Libros (acceso abierto)": 99,
-    "Archive.org — féminisme et communs (Federici, accumulation primitive)": 98,
-    "Archive.org — théorie des communs (Ostrom, CPR, collective action)": 97,
     "discovery_promoted": 72,
-    "The Anarchist Library — OPDS (new releases)": 60,
-    "Archive.org — bienes comunes espagnol (15M/communs)": 38,
+    "The Anarchist Library — OPDS (new releases)": 64,
+    "Archive.org — bienes comunes espagnol (15M/communs)": 40,
     "CrimethInc — zines": 33,
     "Infokiosques.net — Squat (rapport à l'habiter)": 31,
     "HAL — paysannerie / agriculture vivrière": 27,
     "MINAG Cuba — Agricultura Urbana (publications)": 24,
     "Nyéléni — documents finaux": 22,
     "HAL — communs fonciers": 21,
-    "Böll Stiftung — Agriculture & Food (EN topic)": 18,
+    "Böll Stiftung — Agriculture & Food (EN topic)": 19,
     "Archive.org — Cuba agriculture agroécologie": 17,
     "Archive.org — commons / enclosure": 16,
     "Infokiosques.net — Anticolonialismes": 14,
-    "Portal OACA — Libros anarquistas (catégorie)": 13,
+    "Portal OACA — Libros anarquistas (catégorie)": 14,
     "Archive.org — subject:anarchism (texts)": 10,
     "Archive.org — peasant movements": 10,
     "Infokiosques.net — Écologie radicale": 10,
@@ -71,10 +71,10 @@
     "HAL — propriété d'usage / fonds de dotation": 7,
     "Infokiosques.net — index C": 6,
     "CLACSO — Libros en coedición": 5,
+    "Traficantes de Sueños — 15M (matière)": 5,
     "Infokiosques.net — index L (Libération, Luttes)": 4,
     "Archive.org — anarchism + land/peasant (strict)": 4,
     "CLACSO — búsqueda tierra y communs": 4,
-    "Traficantes de Sueños — 15M (matière)": 4,
     "Tierra.org (Amigos de la Tierra ES)": 3,
     "CLACSO — Publicaciones générales": 3,
     "Böll Stiftung — publications EN": 2,
@@ -87,48 +87,48 @@
     "1790s": 1,
     "1920s": 1,
     "1950s": 17,
-    "1960s": 12,
-    "1970s": 12,
-    "1980s": 21,
-    "1990s": 10,
-    "2000s": 160,
-    "2010s": 516,
-    "2020s": 803,
-    "inconnu": 698
+    "1960s": 13,
+    "1970s": 16,
+    "1980s": 23,
+    "1990s": 13,
+    "2000s": 161,
+    "2010s": 519,
+    "2020s": 817,
+    "inconnu": 755
   },
   "by_score": {
-    "0": 551,
-    "1": 237,
-    "2": 185,
-    "3": 111,
-    "4": 88,
-    "5": 105,
+    "0": 598,
+    "1": 248,
+    "2": 193,
+    "3": 114,
+    "4": 86,
+    "5": 108,
     "6": 198,
-    "7": 138,
-    "8": 414,
-    "9": 220,
+    "7": 140,
+    "8": 419,
+    "9": 228,
     "10": 4
   },
   "by_doc_type": {
-    "autre": 2115,
+    "autre": 2200,
     "non_classe": 128,
     "rapport": 4,
     "essai": 3,
     "enquete": 1
   },
   "by_orientation": {
-    "militant": 1254,
-    "academique": 780,
+    "militant": 1265,
+    "academique": 853,
     "non_renseigne": 138,
-    "institutionnel": 79
+    "institutionnel": 80
   },
   "blind_spots": [
-    "Forte dominante militante (55.7%) — les sources académiques et institutionnelles sont minoritaires.",
+    "Forte dominante militante (54.2%) — les sources académiques et institutionnelles sont minoritaires.",
     "Plus de 30% des documents n'ont pas de date de publication fiable.",
     "La veille s'appuie sur des sources web accessibles : les corpus papier, oraux et hors-ligne sont structurellement absents."
   ],
   "biais_connus": [
-    "Forte dominante militante (55.7%) — les sources académiques et institutionnelles sont minoritaires.",
+    "Forte dominante militante (54.2%) — les sources académiques et institutionnelles sont minoritaires.",
     "Plus de 30% des documents n'ont pas de date de publication fiable.",
     "La veille s'appuie sur des sources web accessibles : les corpus papier, oraux et hors-ligne sont structurellement absents."
   ],
@@ -138,14 +138,14 @@
       "url": "https://viacampesina.org/en/wp-json/wp/v2/media?mime_type=application/pdf",
       "type": "wp_rest",
       "orientation": "militant",
-      "count": 559
+      "count": 562
     },
     {
       "label": "Archive.org — commons / enclosure / agrarian (strict)",
       "url": "https://archive.org/advancedsearch.php?q=%28subject%3A%22agrarian%22+OR+subject%3A%22peasant%22+OR+subject%3A%22land+reform%22+OR+subject%3A%22enclosure%22+OR+subject%3A%22commons%22%29+AND+language%3A%28eng+OR+fra+OR+spa%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=50",
       "type": "archive_org",
       "orientation": "academique",
-      "count": 291
+      "count": 311
     },
     {
       "label": "MST Brésil — biblioteca (WP REST API)",
@@ -155,11 +155,32 @@
       "count": 209
     },
     {
+      "label": "Archive.org — théorie des communs (Ostrom, CPR, collective action)",
+      "url": "https://archive.org/advancedsearch.php?q=%28creator%3A%22ostrom%22+OR+creator%3A%22federici%22+OR+creator%3A%22bollier%22+OR+%22governing+the+commons%22+OR+%22common+pool+resource%22+OR+%22commoning%22%29+AND+mediatype%3Atexts+AND+language%3A%28eng+OR+fra%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
+      "type": "archive_org",
+      "orientation": "academique",
+      "count": 122
+    },
+    {
       "label": "Infokiosques.net — Paysannerie & ruralité",
       "url": "https://infokiosques.net/paysannerie_ruralite",
       "type": "html",
       "orientation": "militant",
       "count": 121
+    },
+    {
+      "label": "Archive.org — féminisme et communs (Federici, accumulation primitive)",
+      "url": "https://archive.org/advancedsearch.php?q=%28%22caliban+and+the+witch%22+OR+%22primitive+accumulation%22+OR+%22feminist+commons%22+OR+%22agrarian+feminism%22+OR+creator%3A%22federici%22%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
+      "type": "archive_org",
+      "orientation": "academique",
+      "count": 117
+    },
+    {
+      "label": "Archive.org — community land trusts & housing commons",
+      "url": "https://archive.org/advancedsearch.php?q=%28%22community+land+trust%22+OR+%22housing+commons%22+OR+%22housing+cooperative%22+OR+%22fideicomiso+de+tierras%22%29+AND+language%3A%28eng+OR+fra+OR+spa%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
+      "type": "archive_org",
+      "orientation": "academique",
+      "count": 113
     },
     {
       "label": "CRAS (Centre de Recherches sur les Alternatives Sociales)",
@@ -169,13 +190,6 @@
       "count": 110
     },
     {
-      "label": "Archive.org — community land trusts & housing commons",
-      "url": "https://archive.org/advancedsearch.php?q=%28%22community+land+trust%22+OR+%22housing+commons%22+OR+%22housing+cooperative%22+OR+%22fideicomiso+de+tierras%22%29+AND+language%3A%28eng+OR+fra+OR+spa%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
-      "type": "archive_org",
-      "orientation": "academique",
-      "count": 104
-    },
-    {
       "label": "CLACSO Libros (acceso abierto)",
       "url": "https://www.clacso.org/libros/",
       "type": "deep_html",
@@ -183,32 +197,18 @@
       "count": 99
     },
     {
-      "label": "Archive.org — féminisme et communs (Federici, accumulation primitive)",
-      "url": "https://archive.org/advancedsearch.php?q=%28%22caliban+and+the+witch%22+OR+%22primitive+accumulation%22+OR+%22feminist+commons%22+OR+%22agrarian+feminism%22+OR+creator%3A%22federici%22%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
-      "type": "archive_org",
-      "orientation": "academique",
-      "count": 98
-    },
-    {
-      "label": "Archive.org — théorie des communs (Ostrom, CPR, collective action)",
-      "url": "https://archive.org/advancedsearch.php?q=%28creator%3A%22ostrom%22+OR+creator%3A%22federici%22+OR+creator%3A%22bollier%22+OR+%22governing+the+commons%22+OR+%22common+pool+resource%22+OR+%22commoning%22%29+AND+mediatype%3Atexts+AND+language%3A%28eng+OR+fra%29&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=30",
-      "type": "archive_org",
-      "orientation": "academique",
-      "count": 97
-    },
-    {
       "label": "The Anarchist Library — OPDS (new releases)",
       "url": "https://theanarchistlibrary.org/opds/new",
       "type": "opds",
       "orientation": "militant",
-      "count": 60
+      "count": 64
     },
     {
       "label": "Archive.org — bienes comunes espagnol (15M/communs)",
       "url": "https://archive.org/advancedsearch.php?q=%22bienes+comunes%22+language%3Aspa+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=50",
       "type": "archive_org",
       "orientation": "militant",
-      "count": 38
+      "count": 40
     },
     {
       "label": "CrimethInc — zines",
@@ -257,7 +257,7 @@
       "url": "https://www.boell.de/en/topics/agriculture",
       "type": "deep_html",
       "orientation": "institutionnel",
-      "count": 18
+      "count": 19
     },
     {
       "label": "Archive.org — Cuba agriculture agroécologie",
@@ -278,7 +278,7 @@
       "url": "https://www.portaloaca.com/categoria/pensamientolibertario/libros-anarquistas/",
       "type": "deep_html",
       "orientation": "militant",
-      "count": 13
+      "count": 14
     },
     {
       "label": "Archive.org — peasant movements",
@@ -351,6 +351,13 @@
       "count": 5
     },
     {
+      "label": "Traficantes de Sueños — 15M (matière)",
+      "url": "https://traficantes.net/materias/15-m",
+      "type": "deep_html",
+      "orientation": "militant",
+      "count": 5
+    },
+    {
       "label": "Archive.org — anarchism + land/peasant (strict)",
       "url": "https://archive.org/advancedsearch.php?q=subject%3Aanarchism+AND+%28subject%3A%22agrarian%22+OR+subject%3A%22peasant%22+OR+subject%3A%22land%22+OR+subject%3A%22commons%22%29+AND+language%3A%28eng+OR+fra+OR+spa%29+AND+mediatype%3Atexts&fl%5B%5D=identifier&fl%5B%5D=title&fl%5B%5D=creator&fl%5B%5D=description&output=json&rows=50",
       "type": "archive_org",
@@ -362,13 +369,6 @@
       "url": "https://www.clacso.org/?s=tierra+communs&post_type=publication",
       "type": "deep_html",
       "orientation": "academique",
-      "count": 4
-    },
-    {
-      "label": "Traficantes de Sueños — 15M (matière)",
-      "url": "https://traficantes.net/materias/15-m",
-      "type": "deep_html",
-      "orientation": "militant",
       "count": 4
     },
     {
@@ -400,13 +400,6 @@
       "count": 1
     },
     {
-      "label": "Agritrop CIRAD — Cuba coopératives (OAI-PMH)",
-      "url": "http://agritrop.cirad.fr/cgi/oai2?verb=ListRecords&metadataPrefix=oai_dc",
-      "type": "hal",
-      "orientation": "academique",
-      "count": 0
-    },
-    {
       "label": "Böll Stiftung — Meat Atlas (EN)",
       "url": "https://www.boell.de/en/meat-atlas",
       "type": "deep_html",
@@ -432,13 +425,6 @@
       "url": "https://cgt.org.es/feed/",
       "type": "rss",
       "orientation": "militant",
-      "count": 0
-    },
-    {
-      "label": "CLACSO Repositorio — Cuba cooperativas agricultura",
-      "url": "https://biblioteca-repositorio.clacso.edu.ar/discover?query=cuba+cooperativas+agricultura&rpp=20",
-      "type": "deep_html",
-      "orientation": "academique",
       "count": 0
     },
     {
@@ -477,13 +463,6 @@
       "count": 0
     },
     {
-      "label": "FAO Open Repository — food security (OAI-PMH)",
-      "url": "https://openknowledge.fao.org/oai/request?verb=ListRecords&metadataPrefix=oai_dc&set=foodsecurity",
-      "type": "hal",
-      "orientation": "institutionnel",
-      "count": 0
-    },
-    {
       "label": "FIAN International (droit à l'alimentation, ES)",
       "url": "https://www.fian.org/es/feed/",
       "type": "rss",
@@ -492,7 +471,7 @@
     },
     {
       "label": "FIAN International — publications",
-      "url": "https://www.fian.org/en/publications",
+      "url": "https://www.fian.org/fr/publications/",
       "type": "deep_html",
       "orientation": "institutionnel",
       "count": 0
@@ -526,20 +505,6 @@
       "count": 0
     },
     {
-      "label": "International Journal of the Commons — articles",
-      "url": "https://thecommonsjournal.org/articles",
-      "type": "deep_html",
-      "orientation": "academique",
-      "count": 0
-    },
-    {
-      "label": "KPA Indonesia — document library (réforme agraire)",
-      "url": "https://www.kpa.or.id/document-library/",
-      "type": "deep_html",
-      "orientation": "militant",
-      "count": 0
-    },
-    {
       "label": "La Vía Campesina (ES)",
       "url": "https://viacampesina.org/es/feed/",
       "type": "rss",
@@ -564,13 +529,6 @@
       "label": "OpenEdition Books — catalogue (deep_html)",
       "url": "https://books.openedition.org/",
       "type": "deep_html",
-      "orientation": "academique",
-      "count": 0
-    },
-    {
-      "label": "OpenEdition — Études caribéennes (Cuba agraire)",
-      "url": "https://oai.openedition.org/?verb=ListRecords&metadataPrefix=oai_dc&set=revues:etudescaribeennes",
-      "type": "hal",
       "orientation": "academique",
       "count": 0
     },
@@ -600,13 +558,6 @@
       "url": "https://www.sinpermiso.info/rss.xml",
       "type": "rss",
       "orientation": "journalistique",
-      "count": 0
-    },
-    {
-      "label": "Tierra.org — RSS general",
-      "url": "https://www.tierra.org/feed/",
-      "type": "rss",
-      "orientation": "militant",
       "count": 0
     },
     {
